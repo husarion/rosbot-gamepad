@@ -15,7 +15,9 @@ A GitHub template for ROSbot 2R: a gamepad control
 > /flash-firmware.py /root/firmware.bin
 > ```
 
-Connect a gamepad (tested on Logitech F710) to USB port of your PC/laptop. 
+Connect a gamepad (tested on Logitech F710) to the **USB port of ROSbot**.
+
+In the ROSbot's terminal run:
 
 ```
 docker compose up
