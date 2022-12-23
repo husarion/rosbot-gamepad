@@ -1,6 +1,6 @@
 # rosbot-gamepad
 
-A GitHub template for ROSbot 2 PRO and ROSbot 2R: a gamepad control 
+A GitHub template for ROSbot 2 PRO or ROSbot 2R: a gamepad control 
 
 Clone this repository in the ROSbot's terminal:
 
