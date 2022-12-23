@@ -1,6 +1,6 @@
 # rosbot-gamepad
 
-A GitHub template for ROSbot 2R: a gamepad control 
+A GitHub template for ROSbot 2 PRO and ROSbot 2R: a gamepad control 
 
 Clone this repository in the ROSbot's terminal:
 
@@ -23,7 +23,7 @@ git clone https://github.com/husarion/rosbot-gamepad.git
 
 Connect a gamepad (tested on Logitech F710) to the **USB port of ROSbot**.
 
-In the ROSbot's terminal run:
+In the ROSbot's terminal execute (in `/home/husarion/rosbot-gamepad` directory):
 
 ```
 docker compose up
