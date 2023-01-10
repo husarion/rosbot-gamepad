@@ -21,7 +21,7 @@ git clone https://github.com/husarion/rosbot-gamepad.git
 > /flash-firmware.py /root/firmware.bin
 > ```
 
-Connect a gamepad (tested on Logitech F710) to the **USB port of ROSbot**.
+Connect a [gamepad](https://husarion.com/tutorials/other-tutorials/rosbot-gamepad/) (tested on Logitech F710) to the **USB port of ROSbot**.
 
 In the ROSbot's terminal execute (in `/home/husarion/rosbot-gamepad` directory):
 
