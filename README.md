@@ -28,3 +28,7 @@ In the ROSbot's terminal execute (in `/home/husarion/rosbot-gamepad` directory):
 ```
 docker compose up
 ```
+
+## Control legend
+
+![gamepad-legend](gamepad-legend.png)
