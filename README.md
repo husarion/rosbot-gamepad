@@ -31,4 +31,4 @@ docker compose up
 
 ## Controlling the robot
 
-![gamepad-legend](gamepad-legend.png)
+![ROSbot control with gamepad](.docs/gamepad-legend.jpg)
