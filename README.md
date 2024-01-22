@@ -34,4 +34,4 @@ docker compose up
 ![ROSbot control with gamepad](.docs/gamepad-legend.png)
 
 > [!NOTE]
-> More details on the use of the **F710 Gamepad** in ROS 2 can be found in Husarion's article in the [ROS Equipment section](https://husarion.com/tutorials/ros-equipment/gamepad-f710/).
+> More details on the use of the **F710 Gamepad** and `joy2twist` package in ROS 2 can be found in Husarion's article in the [ROS Equipment section](https://husarion.com/tutorials/ros-equipment/gamepad-f710/).
